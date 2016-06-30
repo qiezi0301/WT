@@ -83,23 +83,23 @@
                                 <exclude reference="bbl-Nn-4bZ"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="CEC-HF-iXF"/>
+                                <exclude reference="p4y-P7-CyG"/>
+                                <exclude reference="FhM-h4-lLV"/>
+                                <exclude reference="OUU-AK-pzg"/>
+                                <exclude reference="bnI-rg-LqP"/>
+                                <exclude reference="rdp-W1-ukn"/>
+                                <exclude reference="yFh-ZM-L7Q"/>
+                                <exclude reference="0Qg-eB-icF"/>
+                                <exclude reference="4L3-YI-Twe"/>
+                                <exclude reference="Mre-1p-Umd"/>
+                                <exclude reference="rOr-8L-LU3"/>
                                 <exclude reference="GRe-qW-iNb"/>
                                 <exclude reference="Szd-Td-WV7"/>
                                 <exclude reference="W6m-lU-Q7T"/>
                                 <exclude reference="hzV-fI-2gH"/>
                                 <exclude reference="MfZ-Sz-n6u"/>
                                 <exclude reference="lCi-mf-aIr"/>
-                                <exclude reference="0Qg-eB-icF"/>
-                                <exclude reference="4L3-YI-Twe"/>
-                                <exclude reference="Mre-1p-Umd"/>
-                                <exclude reference="rOr-8L-LU3"/>
-                                <exclude reference="FhM-h4-lLV"/>
-                                <exclude reference="OUU-AK-pzg"/>
-                                <exclude reference="bnI-rg-LqP"/>
-                                <exclude reference="rdp-W1-ukn"/>
-                                <exclude reference="yFh-ZM-L7Q"/>
-                                <exclude reference="CEC-HF-iXF"/>
-                                <exclude reference="p4y-P7-CyG"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -112,23 +112,23 @@
                                 <include reference="bbl-Nn-4bZ"/>
                             </mask>
                             <mask key="constraints">
+                                <include reference="CEC-HF-iXF"/>
+                                <include reference="p4y-P7-CyG"/>
+                                <exclude reference="FhM-h4-lLV"/>
+                                <include reference="OUU-AK-pzg"/>
+                                <include reference="bnI-rg-LqP"/>
+                                <include reference="rdp-W1-ukn"/>
+                                <exclude reference="yFh-ZM-L7Q"/>
+                                <exclude reference="0Qg-eB-icF"/>
+                                <include reference="4L3-YI-Twe"/>
+                                <include reference="Mre-1p-Umd"/>
+                                <include reference="rOr-8L-LU3"/>
                                 <include reference="GRe-qW-iNb"/>
                                 <include reference="Szd-Td-WV7"/>
                                 <include reference="W6m-lU-Q7T"/>
                                 <include reference="hzV-fI-2gH"/>
                                 <include reference="MfZ-Sz-n6u"/>
                                 <include reference="lCi-mf-aIr"/>
-                                <exclude reference="0Qg-eB-icF"/>
-                                <include reference="4L3-YI-Twe"/>
-                                <include reference="Mre-1p-Umd"/>
-                                <include reference="rOr-8L-LU3"/>
-                                <exclude reference="FhM-h4-lLV"/>
-                                <include reference="OUU-AK-pzg"/>
-                                <include reference="bnI-rg-LqP"/>
-                                <include reference="rdp-W1-ukn"/>
-                                <exclude reference="yFh-ZM-L7Q"/>
-                                <include reference="CEC-HF-iXF"/>
-                                <include reference="p4y-P7-CyG"/>
                             </mask>
                         </variation>
                     </view>
